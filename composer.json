@@ -1,0 +1,19 @@
+{
+    "name": "hoctap.dev/demo1",
+    "description": "Mieu ta 1",
+    "type": "library",
+    "require": {
+        "php": "8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "HoctapDev\\Demo1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hoctap.dev",
+            "email": "hoctap.developer@gmail.com"
+        }
+    ]
+}
